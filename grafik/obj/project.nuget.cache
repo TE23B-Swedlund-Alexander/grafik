@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cNJX8BSXb2o=",
+  "dgSpecHash": "TbQoxBdJBto=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexander.swedlund\\New folder\\grafik\\grafik\\grafik.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\alexander.swedlund\\New folder\\grafik\\grafik\\grafik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexander.swedlund\\.nuget\\packages\\raylib-cs\\7.0.0\\raylib-cs.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

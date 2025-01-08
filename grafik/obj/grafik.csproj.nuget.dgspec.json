@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexander.swedlund\\New folder\\grafik\\grafik\\grafik.csproj": {}
+    "c:\\Users\\alexander.swedlund\\New folder\\grafik\\grafik\\grafik.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexander.swedlund\\New folder\\grafik\\grafik\\grafik.csproj": {
+    "c:\\Users\\alexander.swedlund\\New folder\\grafik\\grafik\\grafik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexander.swedlund\\New folder\\grafik\\grafik\\grafik.csproj",
+        "projectUniqueName": "c:\\Users\\alexander.swedlund\\New folder\\grafik\\grafik\\grafik.csproj",
         "projectName": "grafik",
-        "projectPath": "C:\\Users\\alexander.swedlund\\New folder\\grafik\\grafik\\grafik.csproj",
+        "projectPath": "c:\\Users\\alexander.swedlund\\New folder\\grafik\\grafik\\grafik.csproj",
         "packagesPath": "C:\\Users\\alexander.swedlund\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexander.swedlund\\New folder\\grafik\\grafik\\obj\\",
+        "outputPath": "c:\\Users\\alexander.swedlund\\New folder\\grafik\\grafik\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Raylib-cs": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
